@@ -1,2 +1,5 @@
 this is an example of git.
-now it is changed for git commit
+now it is changed for git configuration..
+this is 3rd changes
+this is 4th changes
+
