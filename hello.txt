@@ -1,1 +1,2 @@
 this is an example of git.
+now it is changed for git commit
