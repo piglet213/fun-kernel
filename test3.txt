@@ -1,2 +1,5 @@
 test3 file content
 this file is created from Remote Repository
+
+this is changes from dev1 
+I need to merge this change from test3.txt in master branch
