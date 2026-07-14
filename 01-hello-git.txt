@@ -2,3 +2,10 @@
 설계자      : Linus Torvalds
 첫 출시 연도 : 1991
 라이선스    : GPL v2
+
+배포판 종류
+  - Ubuntu
+ - Fedora
+ - Arch
+ - Debian
+

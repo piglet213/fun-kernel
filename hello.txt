@@ -1,5 +1,4 @@
-this is an example of git.
-now it is changed for git configuration..
-this is 3rd changes
-this is 4th changes
-
+  1. CFS (Completely Fair Scheduler) — 일반 프로세스용
+  2. RT Scheduler                    — 실시간 프로세스용
+  3. Deadline Scheduler              — 데드라인 기반
+  4. (여기에 추가!)
