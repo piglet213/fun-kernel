@@ -1,0 +1,4 @@
+커널 이름   : Linux
+설계자      : Linus Torvalds
+첫 출시 연도 : 1991
+라이선스    : GPL v2
